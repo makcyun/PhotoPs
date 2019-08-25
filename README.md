@@ -6,7 +6,10 @@
 
 操作效果如下：
 
+
 ![mark](http://media.makcyun.top/win/20190724/DLa5GBHwfuzL.gif)
+
+http://media.makcyun.top/win/20190724/DLa5GBHwfuzL.gif
 
 具体实现很简单，第一步输入 API，第二步输入图片所在文件夹，接着程序就会先抠图，生成带透明背景的 PNG 格式图形。
 
